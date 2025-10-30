@@ -1,0 +1,6 @@
+[submodule "devnull-hardware"]
+	path = devnull-hardware
+	url = https://github.com/VirtuallyScott/devnull-hardware.git
+[submodule "devnull-software"]
+	path = devnull-software
+	url = https://github.com/VirtuallyScott/devnull-software.git
